@@ -64,19 +64,15 @@ Cms Exploit Scanner && WebApp Vul Scanner Also You can use killshot to Scan auto
     git clone https://github.com/darkboss1bd/darkboss1bd-kill-web.git
     cd darkboss1bd/darkboss1bd-kill-web
     ruby setup.rb (if setup show any error just try to install the gems/tool manual )
-    ruby darkboss1bdkillweb.rb
+    ruby darkboss1bd-kill-web.rb
 # Windows Setup
     Download ruby for windows ==> https://rubyinstaller.org/downloads/
     Download Cmder here       ==> http://cmder.net/
     Download Curl For 64/32   ==> https://curl.haxx.se/windows/
     Download nmap             ==> https://nmap.org/download.html      
     Enjoy !
-  # LAST_Update v 1.5 
-     [+] Fix setup error 
-     [+] Fix sql injection detect error
-     [+] Add Typo3 Scanner (+brute force) 
-     [+] Detect Of the MX and NS
-Easy and fast use of darkboss1bd-kill-web
+    
+# Easy and fast use of darkboss1bd-kill-web
  
 
 
