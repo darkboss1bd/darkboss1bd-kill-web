@@ -5,7 +5,7 @@ A Penetration Testing Framework, Information gathering tool & Website Vulnerabil
 
 You Can use this tool to Spider your website and get important information and gather information automaticaly using 
 whatweb-host-traceroute-dig-fierce-wafw00f or to Identify the cms and to find the vulnerability in your website using 
-Cms Exploit Scanner && WebApp Vul Scanner Also You can use killshot to Scan automaticly multiple type of scan with nmap and unicorn . And With this tool You can Generate PHP Simple Backdoors upload it manual and connect to the target using killshot
+Cms Exploit Scanner && WebApp Vul Scanner Also You can use darkboss1bd-kill-web to Scan automaticly multiple type of scan with nmap and unicorn . And With this tool You can Generate PHP Simple Backdoors upload it manual and connect to the target using darkboss1bd-kill-web.
 
   
 # Use Shodan By targ option     
@@ -79,7 +79,8 @@ Cms Exploit Scanner && WebApp Vul Scanner Also You can use killshot to Scan auto
 
 
 Please Any one who find any error/bugs in any code contact me also if you want to add some codes
-or to upgrade some codes in killshot just contact me  
+or to upgrade some codes in darkboss1bd-kill-web just contact me  
+# Telegram Id: https://t.me/darkvaiadmin
  <trying to make hacking better>
  
  # references
