@@ -64,7 +64,9 @@ Cms Exploit Scanner && WebApp Vul Scanner Also You can use killshot to Scan auto
     git clone https://github.com/darkboss1bd/darkboss1bd-kill-web.git
     cd darkboss1bd/darkboss1bd-kill-web
     ruby setup.rb (if setup show any error just try to install the gems/tool manual )
+    ruby setup.rb
     ruby darkboss1bd-kill-web.rb
+    
 # Windows Setup
     Download ruby for windows ==> https://rubyinstaller.org/downloads/
     Download Cmder here       ==> http://cmder.net/
